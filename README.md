@@ -1,0 +1,1 @@
+Simple Example of Using Spring Web and Rest services together
